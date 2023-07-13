@@ -8,24 +8,24 @@ global.capikey = '-' // Isi Apikey Pltc Lu
 //------------------------------------------------------------------------------------------------\\
 
 global.version = "V2"
-global.ownerName = 'ReynaEp' // Isi Nama Owner
-global.namaOwner = 'ReynaEp' // Isi Nama Owner Lu
+global.ownerName = 'aiman' // Isi Nama Owner
+global.namaOwner = 'aiman' // Isi Nama Owner Lu
 
-global.botName = 'ReiPanelStore' // Isi Nama Bot
-global.namaBot = 'ReiPanelStore' // Isi Nama Bot
+global.botName = 'bot' // Isi Nama Bot
+global.namaBot = 'bot' // Isi Nama Bot
 
-global.owner = ['6287864131067', '6288803617785', '62882003146309', '6283188229366', '6287814961026', '6289510478969'] // Isi Nomor Lu
-global.ownerNumber = ["6287864131067@s.whatsapp.net"] // Isi Nomor lu
-global.nomorOwner = "6287864131067" //Isi Nomor Lu
+global.owner = ['60102810046', '6288803617785', '62882003146309', '6283188229366', '6287814961026', '6289510478969'] // Isi Nomor Lu
+global.ownerNumber = ["60102810046@s.whatsapp.net"] // Isi Nomor lu
+global.nomorOwner = "60102810046" //Isi Nomor Lu
 
 //------------------------------------------------------------------------------------------------\\
 
 global.sessionName = 'session' // nama session
-global.packname = '© By ReinaEp'
-global.author = 'Cie Mau Maling\6287864131067'
-global.email = 'reyna.greyling@gmail.com'
+global.packname = '© By aimn'
+global.author = 'Cie'
+global.email = 'aiman89@gmail.com'
 global.youtube = '_'
-global.region = 'I`m From Indonesia'
+global.region = 'I`m From malaysia'
 global.prefa = ['','!','.','#','-','•']
 
 global.lol = '09b723b1fee8877ff7a8c347'
